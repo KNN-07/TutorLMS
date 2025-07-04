@@ -198,3 +198,7 @@ frontend/.env.production.local
 # Alembic
 backend/alembic/versions/*.py
 !backend/alembic/versions/.gitkeep
+
+#
+memory-bank
+.clinerules
